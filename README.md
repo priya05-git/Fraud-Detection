@@ -71,6 +71,7 @@ Enter Transaction ID: 235
 
 Risk Score = 605
 Risk Level: MEDIUM RISK
+
 🛠️ Technologies Used
 
 C++
@@ -80,12 +81,16 @@ Standard Library: iostream
 Any C++ Compiler (g++, CodeBlocks, Dev C++, VS Code)
 
 🚀 How to Run the Program
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/fraud-detection-system.git
+
 2️⃣ Compile the program
 g++ fraud_detection.cpp -o fraud
+
 3️⃣ Run the program
 ./fraud
+
 📚 Programming Concepts Used
 
 Functions in C++
